@@ -1,0 +1,797 @@
+[
+    {
+        "ID": 266,
+        "Champ": "Aatrox",
+        "Tag": "Fighter"
+    },
+    {
+        "ID": 103,
+        "Champ": "Ahri",
+        "Tag": "Fighter"
+    },
+    {
+        "ID": 166,
+        "Champ": "Akshan",
+        "Tag": "Marksman"
+    },
+    {
+        "ID": 84,
+        "Champ": "Akali",
+        "Tag": "Assassin"
+    },
+    {
+        "ID": 12,
+        "Champ": "Alistar",
+        "Tag": "Tank"
+    },
+    {
+        "ID": 32,
+        "Champ": "Amumu",
+        "Tag": "Tank"
+    },
+    {
+        "ID": 34,
+        "Champ": "Anivia",
+        "Tag": "Mage"
+    },
+    {
+        "ID": 1,
+        "Champ": "Annie",
+        "Tag": "Mage"
+    },
+    {
+        "ID": 523,
+        "Champ": "Aphelios",
+        "Tag": "Marksman"
+    },
+    {
+        "ID": 22,
+        "Champ": "Ashe",
+        "Tag": "Marksman"
+    },
+    {
+        "ID": 136,
+        "Champ": "Aurelion Sol",
+        "Tag": "Mage"
+    },
+    {
+        "ID": 268,
+        "Champ": "Azir",
+        "Tag": "Mage"
+    },
+    {
+        "ID": 432,
+        "Champ": "Bardo",
+        "Tag": "Support"
+    },
+    {
+        "ID": 53,
+        "Champ": "Blitzcrank",
+        "Tag": "Tank"
+    },
+    {
+        "ID": 63,
+        "Champ": "Brand",
+        "Tag": "Mage"
+    },
+    {
+        "ID": 201,
+        "Champ": "Braum",
+        "Tag": "Support"
+    },
+    {
+        "ID": 51,
+        "Champ": "Caitlyn",
+        "Tag": "Marksman"
+    },
+    {
+        "ID": 164,
+        "Champ": "Camile",
+        "Tag": "Fighter"
+    },
+    {
+        "ID": 69,
+        "Champ": "Cassiopeia",
+        "Tag": "Mage"
+    },
+    {
+        "ID": 31,
+        "Champ": "Cho'Gath",
+        "Tag": "Tank"
+    },
+    {
+        "ID": 42,
+        "Champ": "Corki",
+        "Tag": "Marksman"
+    },
+    {
+        "ID": 122,
+        "Champ": "Darius",
+        "Tag": "Fighter"
+    },
+    {
+        "ID": 131,
+        "Champ": "Diana",
+        "Tag": "Fighter"
+    },
+    {
+        "ID": 36,
+        "Champ": "Dr. Mundo",
+        "Tag": "Fighter"
+    },
+    {
+        "ID": 119,
+        "Champ": "Draven",
+        "Tag": "Marksman"
+    },
+    {
+        "ID": 245,
+        "Champ": "Ekko",
+        "Tag": "Assassin"
+    },
+    {
+        "ID": 60,
+        "Champ": "Elise",
+        "Tag": "Mage"
+    },
+    {
+        "ID": 28,
+        "Champ": "Evelynn",
+        "Tag": "Assassin"
+    },
+    {
+        "ID": 81,
+        "Champ": "Ezreal",
+        "Tag": "Marksman"
+    },
+    {
+        "ID": 9,
+        "Champ": "Fiddlesticks",
+        "Tag": "Mage"
+    },
+    {
+        "ID": 114,
+        "Champ": "Fiora",
+        "Tag": "Fighter"
+    },
+    {
+        "ID": 105,
+        "Champ": "Fizz",
+        "Tag": "Assassin"
+    },
+    {
+        "ID": 3,
+        "Champ": "Galio",
+        "Tag": "Tank"
+    },
+    {
+        "ID": 41,
+        "Champ": "Gangplank",
+        "Tag": "Fighter"
+    },
+    {
+        "ID": 86,
+        "Champ": "Garen",
+        "Tag": "Fighter"
+    },
+    {
+        "ID": 150,
+        "Champ": "Gnar",
+        "Tag": "Fighter"
+    },
+    {
+        "ID": 79,
+        "Champ": "Gragas",
+        "Tag": "Fighter"
+    },
+    {
+        "ID": 104,
+        "Champ": "Graves",
+        "Tag": "Marksman"
+    },
+    {
+        "ID": 887,
+        "Champ": "Gwen",
+        "Tag": "Fighter"
+    },
+    {
+        "ID": 120,
+        "Champ": "Hecarim",
+        "Tag": "Fighter"
+    },
+    {
+        "ID": 74,
+        "Champ": "Heimerdinger",
+        "Tag": "Mage"
+    },
+    {
+        "ID": 420,
+        "Champ": "Illaoi",
+        "Tag": "Fighter"
+    },
+    {
+        "ID": 39,
+        "Champ": "Irelia",
+        "Tag": "Fighter"
+    },
+    {
+        "ID": 427,
+        "Champ": "Ivern",
+        "Tag": "Support"
+    },
+    {
+        "ID": 40,
+        "Champ": "Janna",
+        "Tag": "Support"
+    },
+    {
+        "ID": 59,
+        "Champ": "Jarvan IV",
+        "Tag": "Tank"
+    },
+    {
+        "ID": 24,
+        "Champ": "Jax",
+        "Tag": "Fighter"
+    },
+    {
+        "ID": 126,
+        "Champ": "Jayce",
+        "Tag": "Fighter"
+    },
+    {
+        "ID": 202,
+        "Champ": "Jhin",
+        "Tag": "Marksman"
+    },
+    {
+        "ID": 222,
+        "Champ": "Jinx",
+        "Tag": "Marksman"
+    },
+    {
+        "ID": 145,
+        "Champ": "Kai'Sa",
+        "Tag": "Marksman"
+    },
+    {
+        "ID": 429,
+        "Champ": "Kalista",
+        "Tag": "Marksman"
+    },
+    {
+        "ID": 43,
+        "Champ": "Karma",
+        "Tag": "Mage"
+    },
+    {
+        "ID": 30,
+        "Champ": "Karthus",
+        "Tag": "Mage"
+    },
+    {
+        "ID": 38,
+        "Champ": "Kassadin",
+        "Tag": "Assassin"
+    },
+    {
+        "ID": 55,
+        "Champ": "Katarina",
+        "Tag": "Assassin"
+    },
+    {
+        "ID": 10,
+        "Champ": "Kayle",
+        "Tag": "Fighter"
+    },
+    {
+        "ID": 141,
+        "Champ": "Kayn",
+        "Tag": "Fighter"
+    },
+    {
+        "ID": 85,
+        "Champ": "Kennen",
+        "Tag": "Mage"
+    },
+    {
+        "ID": 121,
+        "Champ": "Kha'Zix",
+        "Tag": "Assassin"
+    },
+    {
+        "ID": 203,
+        "Champ": "Kindred",
+        "Tag": "Marksman"
+    },
+    {
+        "ID": 240,
+        "Champ": "Kled",
+        "Tag": "Fighter"
+    },
+    {
+        "ID": 96,
+        "Champ": "Kog'Maw",
+        "Tag": "Marksman"
+    },
+    {
+        "ID": 7,
+        "Champ": "LeBlanc",
+        "Tag": "Assassin"
+    },
+    {
+        "ID": 64,
+        "Champ": "Lee Sin",
+        "Tag": "Fighter"
+    },
+    {
+        "ID": 89,
+        "Champ": "Leona",
+        "Tag": "Tank"
+    },
+    {
+        "ID": 876,
+        "Champ": "Lillia",
+        "Tag": "Fighter"
+    },
+    {
+        "ID": 127,
+        "Champ": "Lissandra",
+        "Tag": "Mage"
+    },
+    {
+        "ID": 236,
+        "Champ": "Lucian",
+        "Tag": "Marksman"
+    },
+    {
+        "ID": 117,
+        "Champ": "Lulu",
+        "Tag": "Support"
+    },
+    {
+        "ID": 99,
+        "Champ": "Lux",
+        "Tag": "Mage"
+    },
+    {
+        "ID": 54,
+        "Champ": "Malphite",
+        "Tag": "Tank"
+    },
+    {
+        "ID": 90,
+        "Champ": "Malzahar",
+        "Tag": "Mage"
+    },
+    {
+        "ID": 57,
+        "Champ": "Maokai",
+        "Tag": "Tank"
+    },
+    {
+        "ID": 11,
+        "Champ": "Master Yi",
+        "Tag": "Assassin"
+    },
+    {
+        "ID": 21,
+        "Champ": "Miss Fortune",
+        "Tag": "Marksman"
+    },
+    {
+        "ID": 82,
+        "Champ": "Mordekaiser",
+        "Tag": "Fighter"
+    },
+    {
+        "ID": 25,
+        "Champ": "Morgana",
+        "Tag": "Mage"
+    },
+    {
+        "ID": 267,
+        "Champ": "Nami",
+        "Tag": "Support"
+    },
+    {
+        "ID": 75,
+        "Champ": "Nasus",
+        "Tag": "Fighter"
+    },
+    {
+        "ID": 111,
+        "Champ": "Nautilus",
+        "Tag": "Tank"
+    },
+    {
+        "ID": 518,
+        "Champ": "Neeko",
+        "Tag": "Mage"
+    },
+    {
+        "ID": 76,
+        "Champ": "Nidalee",
+        "Tag": "Assassin"
+    },
+    {
+        "ID": 56,
+        "Champ": "Nocturne",
+        "Tag": "Assassin"
+    },
+    {
+        "ID": 20,
+        "Champ": "Nunu & Willump",
+        "Tag": "Tank"
+    },
+    {
+        "ID": 2,
+        "Champ": "Olaf",
+        "Tag": "Fighter"
+    },
+    {
+        "ID": 61,
+        "Champ": "Orianna",
+        "Tag": "Mage"
+    },
+    {
+        "ID": 516,
+        "Champ": "Ornn",
+        "Tag": "Tank"
+    },
+    {
+        "ID": 80,
+        "Champ": "Pantheon",
+        "Tag": "Fighter"
+    },
+    {
+        "ID": 78,
+        "Champ": "Pop",
+        "Tag": "Tank"
+    },
+    {
+        "ID": 555,
+        "Champ": "Pyke",
+        "Tag": "Support"
+    },
+    {
+        "ID": 246,
+        "Champ": "Qiyana",
+        "Tag": "Assassin"
+    },
+    {
+        "ID": 133,
+        "Champ": "Quinn",
+        "Tag": "Marksman"
+    },
+    {
+        "ID": 497,
+        "Champ": "Rakan",
+        "Tag": "Support"
+    },
+    {
+        "ID": 33,
+        "Champ": "Rammus",
+        "Tag": "Tank"
+    },
+    {
+        "ID": 421,
+        "Champ": "Rek'Sai",
+        "Tag": "Fighter"
+    },
+    {
+        "ID": 526,
+        "Champ": "Rell",
+        "Tag": "Tank"
+    },
+    {
+        "ID": 58,
+        "Champ": "Renekton",
+        "Tag": "Fighter"
+    },
+    {
+        "ID": 107,
+        "Champ": "Rengar",
+        "Tag": "Assassin"
+    },
+    {
+        "ID": 92,
+        "Champ": "Riven",
+        "Tag": "Fighter"
+    },
+    {
+        "ID": 68,
+        "Champ": "Rumble",
+        "Tag": "Fighter"
+    },
+    {
+        "ID": 13,
+        "Champ": "Ryze",
+        "Tag": "Mage"
+    },
+    {
+        "ID": 360,
+        "Champ": "Samira",
+        "Tag": "Marksman"
+    },
+    {
+        "ID": 113,
+        "Champ": "Sejuani",
+        "Tag": "Tank"
+    },
+    {
+        "ID": 235,
+        "Champ": "Senna",
+        "Tag": "Marksman"
+    },
+    {
+        "ID": 147,
+        "Champ": "Seraphine",
+        "Tag": "Mage"
+    },
+    {
+        "ID": 875,
+        "Champ": "Sett",
+        "Tag": "Fighter"
+    },
+    {
+        "ID": 35,
+        "Champ": "Shaco",
+        "Tag": "Assassin"
+    },
+    {
+        "ID": 98,
+        "Champ": "Shen",
+        "Tag": "Tank"
+    },
+    {
+        "ID": 102,
+        "Champ": "Shyvana",
+        "Tag": "Fighter"
+    },
+    {
+        "ID": 27,
+        "Champ": "Singed",
+        "Tag": "Tank"
+    },
+    {
+        "ID": 14,
+        "Champ": "Sion",
+        "Tag": "Tank"
+    },
+    {
+        "ID": 15,
+        "Champ": "Sivir",
+        "Tag": "Marksman"
+    },
+    {
+        "ID": 72,
+        "Champ": "Skarner",
+        "Tag": "Fighter"
+    },
+    {
+        "ID": 37,
+        "Champ": "Sona",
+        "Tag": "Support"
+    },
+    {
+        "ID": 16,
+        "Champ": "Soraka",
+        "Tag": "Support"
+    },
+    {
+        "ID": 50,
+        "Champ": "Swain",
+        "Tag": "Mage"
+    },
+    {
+        "ID": 517,
+        "Champ": "Sylas",
+        "Tag": "Mage"
+    },
+    {
+        "ID": 134,
+        "Champ": "Syndra",
+        "Tag": "Mage"
+    },
+    {
+        "ID": 223,
+        "Champ": "Tahm Kench",
+        "Tag": "Support"
+    },
+    {
+        "ID": 163,
+        "Champ": "Taliyah",
+        "Tag": "Mage"
+    },
+    {
+        "ID": 91,
+        "Champ": "Talon",
+        "Tag": "Assassin"
+    },
+    {
+        "ID": 44,
+        "Champ": "Taric",
+        "Tag": "Support"
+    },
+    {
+        "ID": 17,
+        "Champ": "Teemo",
+        "Tag": "Marksman"
+    },
+    {
+        "ID": 412,
+        "Champ": "Thresh",
+        "Tag": "Support"
+    },
+    {
+        "ID": 18,
+        "Champ": "Tristana",
+        "Tag": "Marksman"
+    },
+    {
+        "ID": 48,
+        "Champ": "Trundle",
+        "Tag": "Fighter"
+    },
+    {
+        "ID": 23,
+        "Champ": "Tryndamere",
+        "Tag": "Fighter"
+    },
+    {
+        "ID": 4,
+        "Champ": "Twisted Fate",
+        "Tag": "Mage"
+    },
+    {
+        "ID": 29,
+        "Champ": "Twitch",
+        "Tag": "Marksman"
+    },
+    {
+        "ID": 77,
+        "Champ": "Udyr",
+        "Tag": "Fighter"
+    },
+    {
+        "ID": 6,
+        "Champ": "Urgot",
+        "Tag": "Fighter"
+    },
+    {
+        "ID": 110,
+        "Champ": "Varus",
+        "Tag": "Marksman"
+    },
+    {
+        "ID": 67,
+        "Champ": "Vayne",
+        "Tag": "Marksman"
+    },
+    {
+        "ID": 45,
+        "Champ": "Veigar",
+        "Tag": "Mage"
+    },
+    {
+        "ID": 161,
+        "Champ": "Vel'Koz",
+        "Tag": "Mage"
+    },
+    {
+        "ID": 254,
+        "Champ": "VI",
+        "Tag": "Fighter"
+    },
+    {
+        "ID": 234,
+        "Champ": "Viego",
+        "Tag": "Assassin"
+    },
+    {
+        "ID": 112,
+        "Champ": "Viktor",
+        "Tag": "Mage"
+    },
+    {
+        "ID": 8,
+        "Champ": "Vladimir",
+        "Tag": "Mage"
+    },
+    {
+        "ID": 106,
+        "Champ": "Volibear",
+        "Tag": "Fighter"
+    },
+    {
+        "ID": 19,
+        "Champ": "Warwick",
+        "Tag": "Fighter"
+    },
+    {
+        "ID": 62,
+        "Champ": "Wukong",
+        "Tag": "Fighter"
+    },
+    {
+        "ID": 498,
+        "Champ": "Xayah",
+        "Tag": "Marksman"
+    },
+    {
+        "ID": 101,
+        "Champ": "Xerath",
+        "Tag": "Mage"
+    },
+    {
+        "ID": 5,
+        "Champ": "Xin Zhao",
+        "Tag": "Fighter"
+    },
+    {
+        "ID": 157,
+        "Champ": "Yasuo",
+        "Tag": "Fighter"
+    },
+    {
+        "ID": 777,
+        "Champ": "Yone",
+        "Tag": "Assassin"
+    },
+    {
+        "ID": 83,
+        "Champ": "Yorick",
+        "Tag": "Fighter"
+    },
+    {
+        "ID": 350,
+        "Champ": "Yuumi",
+        "Tag": "Support"
+    },
+    {
+        "ID": 154,
+        "Champ": "Zac",
+        "Tag": "Tank"
+    },
+    {
+        "ID": 238,
+        "Champ": "Zed",
+        "Tag": "Assassin"
+    },
+    {
+        "ID": 115,
+        "Champ": "Ziggs",
+        "Tag": "Mage"
+    },
+    {
+        "ID": 26,
+        "Champ": "Zilean",
+        "Tag": "Support"
+    },
+    {
+        "ID": 142,
+        "Champ": "Zoe",
+        "Tag": "Mage"
+    },
+    {
+        "ID": 143,
+        "Champ": "Zyra",
+        "Tag": "Mage"
+    },
+    {
+        "ID": 711,
+        "Champ": "Vex",
+        "Tag": "Mage"
+    },
+    {
+        "ID": 221,
+        "Champ": "Zeri",
+        "Tag": "Marksman"
+    },
+    {
+        "ID": 888,
+        "Champ": "Renata Glasc",
+        "Tag": "Support"
+    }
+]
