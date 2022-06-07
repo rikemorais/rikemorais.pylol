@@ -5,14 +5,16 @@ import dash_bootstrap_components as dbc
 import pandas as pd
 import plotly.graph_objects as go
 
-rgapi = open(".token_id").read()
+# API
+rgapi = open("tokens/.token_id").read()
 user = "5weCnbUCk3FQ4lFlEKUiut6l6w3i3l5GmHMe3hOt6jacQnw"
 api = "https://br1.api.riotgames.com/lol/champion-mastery/v4/champion-masteries/by-summoner/"
-
-champions_json = pd.read_json("champions.json")
-
 df = pd.read_json(api+user+"?api_key="+rgapi)
 
+# Dimensions
+champions_json = pd.read_json("champions.json")
+
+# ETL
 df = df.filter(items=[
     'championId',
     'championLevel',
@@ -29,8 +31,10 @@ df = df.rename(columns={
 }
 )
 
+# JOIN
 df = df.join(champions_json.set_index("ID"), on="ID", how="left")
 
+# THEME
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.CYBORG])
 
 
@@ -62,5 +66,6 @@ app.layout = dbc.Container(
     ])
 
 
+# Server
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(port=8051, debug=True)
